@@ -23,9 +23,6 @@ You can filter by **status**, **species**, sort by **name** or **origin**, and s
 1. Clone the repository
 ```bash
 git clone https://github.com/dodevskaa/Rick-and-Morty-Pabau.git
-cd Rick-and-Morty-Pabau
-start index.html (Windows)
-open index.html (Linux/macOS)
 ```
 
 2. Open the project
