@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    font-family: "Inter", Sans-serif;
+}
+
+.title_container img {
+    width: 100px;
+    margin-left: 10px;
+}
+
+.title_container h1 {
+    font-family: 'Eater', sans-serif;
+}
+
+#filters {
+    margin-bottom: 20px;
+}
+
+.card {
+    background-color: #b9d7eb !important;
+}
+
+#language-toggle {
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    padding: 10px;
+    width: 250px;
+    border-radius: 15px;
+}
